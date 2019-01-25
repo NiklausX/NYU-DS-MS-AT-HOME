@@ -19,6 +19,8 @@ https://github.com/briandalessandro/DataScienceCourse
 5. Deep Learning
         https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/edit
         alternate from oxford:https://github.com/oxford-cs-deepnlp-2017/lectures
+
+        Lecture Notes:https://drive.google.com/file/d/1bYJJV6J2cXeWgo4zQ6xegTjl79uRDIgp/view?usp=sharing
 6. Inference and Representation
         https://inf16nyu.github.io/home/
         note: Advance Probability
