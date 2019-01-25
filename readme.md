@@ -4,7 +4,8 @@ https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/
 https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
 https://seeing-theory.brown.edu/index.html
 https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/notes.html
-http://greenteapress.com/thinkstats/thinkstats.pdf
+http://greenteapress.com/thinkstats2/thinkstats.pdf
+http://greenteapress.com/thinkstats/thinkstats2.pdf
 2. Intro to Data Science
 https://github.com/briandalessandro/DataScienceCourse
         Lectures: https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython/Lectures
