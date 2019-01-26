@@ -1,11 +1,23 @@
-Curriculam
+<h1> Curriculam </h1>
 https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/
+http://nyu-cds-dev.sparksites.io/academics/ms-in-data-science/ms-courses/
 1. Probability, Stats & Linear Algebra for DS
-https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
-https://seeing-theory.brown.edu/index.html
-https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/notes.html
-http://greenteapress.com/thinkstats2/thinkstats.pdf
-http://greenteapress.com/thinkstats/thinkstats2.pdf
+    1.1 Linear Algebra
+
+        https://www.cse.iitb.ac.in/~cs725/notes/classNotes/misc/LinearAlgebra.pdf
+    1.2 Basic Probability & Stats    
+        https://www.cse.iitb.ac.in/~cs725/notes/classNotes/misc/BasicProbAndStats.pdf
+        
+        Visual Intor: https://seeing-theory.brown.edu/index.html
+    1.3 Advanced Probability & Stats
+        https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
+        https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/notes.html
+        
+        Extra
+        http://greenteapress.com/thinkstats2/thinkstats.pdf
+        http://greenteapress.com/thinkstats/thinkstats2.pdf
+
+
 2. Intro to Data Science
 https://github.com/briandalessandro/DataScienceCourse
         Lectures: https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython/Lectures
@@ -25,3 +37,5 @@ https://github.com/briandalessandro/DataScienceCourse
 6. Inference and Representation
         https://inf16nyu.github.io/home/
         note: Advance Probability
+7. Optimization-based Data Analysis
+       https://cims.nyu.edu/~cfgranda/pages/OBDA_fall17/index.html
