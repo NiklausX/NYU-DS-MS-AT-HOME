@@ -2,8 +2,14 @@
 https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/
 http://nyu-cds-dev.sparksites.io/academics/ms-in-data-science/ms-courses/
 1. Probability, Stats & Linear Algebra for DS
-    1.1 Linear Algebra
 
+    0.1 https://www.cse.iitb.ac.in/~ganesh/papers/HandbookForSRL_upcoming.pdf
+
+    1.1 Linear Algebra
+        http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
+        http://www.cns.nyu.edu/~eero/NOTES/geomLinAlg.pdf
+        https://www.math.ucdavis.edu/~linear/linear-guest.pdf
+        http://cs229.stanford.edu/section/cs229-linalg.pdf
         https://www.cse.iitb.ac.in/~cs725/notes/classNotes/misc/LinearAlgebra.pdf
     1.2 Basic Probability & Stats    
         https://www.cse.iitb.ac.in/~cs725/notes/classNotes/misc/BasicProbAndStats.pdf
